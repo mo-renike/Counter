@@ -17,7 +17,7 @@ body {
 .container {
   display: flex;
   width: 50%;
-  height: 80%;
+  height: auto;
   border: 1px solid #ededed;
   margin: 3em auto;
   padding: 30px;
